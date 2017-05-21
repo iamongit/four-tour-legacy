@@ -1,11 +1,6 @@
 # Four Tour
 > Social Generated Walking Tour
 
-## Team
-
-  - __Product Owner__: Rich Serdici
-  - __Scrum Master__: Cameron Dunne
-  - __Development Team Members__: Viswada Yangala
 
 ## Table of Contents
 
@@ -38,11 +33,3 @@ sudo npm install -g bower
 npm install
 ```
 
-### Roadmap
-
-View the project roadmap [here](https://github.com/routejs-66/routejs-66/issues)
-
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
